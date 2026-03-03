@@ -1,0 +1,77 @@
+{
+  "projectType": "saas",
+  "projectName": "NDZ Journal",
+  "projectDescription": "A community-first education platform and knowledge base for remote workers and digital creators",
+  "theme": "almond",
+  "primaryColor": "#2E5077",
+  "lightColor": "#4DA8DA",
+  "darkColor": "#1B3A52",
+  "navigation": {
+    "tabs": [
+      {
+        "tab": "Documentation",
+        "groups": [
+          {
+            "group": "Get Started",
+            "pages": [
+              "introduction",
+              "quickstart",
+              "about-ndz"
+            ]
+          },
+          {
+            "group": "Community",
+            "pages": [
+              "community/overview",
+              "community/who-its-for",
+              "community/joining"
+            ]
+          },
+          {
+            "group": "Content Guidelines",
+            "pages": [
+              "guidelines/philosophy",
+              "guidelines/contributing",
+              "guidelines/topics"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "Resources",
+        "groups": [
+          {
+            "group": "Articles & Essays",
+            "pages": [
+              "resources/thoughts",
+              "resources/tips",
+              "resources/research"
+            ]
+          },
+          {
+            "group": "Community Updates",
+            "pages": [
+              "updates/overview",
+              "updates/weekly-roundups",
+              "updates/announcements"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "keyFeatures": [
+    "Community-first education platform for remote workers",
+    "Knowledge base with articles on productivity and personal development",
+    "Weekly and monthly community updates",
+    "Resources for learning digital skills and remote work",
+    "Minimalist philosophy focused on actionable learning"
+  ],
+  "publicApiSurface": [
+    "Blog articles and essays on productivity",
+    "Community updates and roundups",
+    "Learning resources and guides",
+    "Social media integration (@NDZAcademy)",
+    "Newsletter (State of Skills)"
+  ]
+}
